@@ -1,4 +1,4 @@
-# th_covid_2021 (WIP)
+# th_covid_2021
 ## Information
 This repository is my contribution to my university's EDA homework.
 My instructor asked us to upload the raw and finished file here, so this will be my first contribution on GitHub.
@@ -11,4 +11,4 @@ My instructor asked us to upload the raw and finished file here, so this will be
 - [x] Upload raw data file
 - [x] Clean data
 - [x] Analyze data
-- [ ] Markdown summary
+- [x] Markdown summary
