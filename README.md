@@ -3,11 +3,12 @@
 This repository is my contribution to my university's EDA homework.
 My instructor asked us to upload the raw and finished file here, so this will be my first contribution on GitHub.
 
-## Notes for instructor
-- The "final.ipynb" file has been modified from the submitted version for privacy.
+## Notes
+- The summary will be written in Thai.
+- (For instructor) The "final.ipynb" file has been modified from the submitted version for privacy.
 
 ## To-do list
 - [x] Upload raw data file
 - [x] Clean data
-- [ ] Analyze data
+- [x] Analyze data
 - [ ] Markdown summary
