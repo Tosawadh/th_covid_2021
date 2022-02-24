@@ -5,7 +5,6 @@ My instructor asked us to upload the raw and finished file here, so this will be
 
 ## Notes
 - The summary will be written in Thai.
-- (For instructor) The "final.ipynb" file has been modified from the submitted version for privacy.
 
 ## To-do list
 - [x] Upload raw data file
